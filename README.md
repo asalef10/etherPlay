@@ -22,4 +22,3 @@ The EtherPlay game is fully decentralized, meaning your funds are always secure,
 # Join the Game
 So what are you waiting for? Join the Ethereum Price Guessing Game today and put your prediction skills to the test for a chance to win big!# 
 ![צילום מסך 2023-05-05 045132](https://user-images.githubusercontent.com/76787292/236363331-98bc228f-314b-481e-94a1-27199903cd04.png)
-# etherPlay
